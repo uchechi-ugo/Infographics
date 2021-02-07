@@ -20,7 +20,6 @@ h1{
   text-align:center;
 }
 .svg-states {
-  /*margin-left:auto; margin-right:auto; display:block;*/
   float:left
 }
 
@@ -44,76 +43,3 @@ h1{
   font-weight: bold;
 }
 
-/*.list-of-states li.on {
-  background: black;
-  color: white;
-  font-weight: bold;
- 
-}
-path.on{
-  fill: black;
-}
-
-.my-legend .legend-title {
-    float:left;
-    font-weight: bold;
-    font-size: 90%;
-    margin: 0;
-    margin-bottom: 5px;
-    padding: 0;
-    list-style: none;
-    clear: both;
-   
-    }
-  .my-legend .legend-scale ul {
-    margin: 0;
-    margin-bottom: 5px;
-    padding: 0;
-    float: left;
-    list-style: none;
-    clear: both;
-    }
-  .my-legend .legend-scale ul li {
-    font-size: 80%;
-    line-height: 18px;
-    margin-top: 5px;
-    margin-bottom: 2px;
-    clear: both;
-    }
-  .my-legend ul.legend-labels li span {
-    display: block;
-    float: left;
-    height: 16px;
-    width: 30px;
-    margin-right: 5px;
-    margin-left: 0;
-    border: 1px solid #999;
-    clear: both;
-    }
-  .my-legend .legend-source {
-    font-size: 70%;
-    color: #999;
-    clear:both;
-    }
-.my-legend a {
-    color: #777;
-    }
-
-path.on{
-  fill: black;
-}
-.list-of-states {
-  margin-left:10%;
-  padding: 0;
-  columns: 100px auto;
-  column-gap: 8px;
-  
-
-}
-.list-of-states li {
-  padding: 2px 4px;
-  margin-left: 5%;
-  padding-top: 10px;
-  display: inline-block;
-  width: 100%;
-}*/
